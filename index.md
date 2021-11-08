@@ -1,4 +1,4 @@
-<a href=#><img src="https://acegif.com/wp-content/uploads/rainy-21.gif" alt="running with rain" height="250" width="1000" /></a>
+<img src="https://acegif.com/wp-content/uploads/rainy-21.gif" alt="running with rain" height="250" width="1000" />
 
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate developer from Bogotá, Colombia</h3>
@@ -17,14 +17,13 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <br>
-<p align="center"> <a href=#><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://github.com/jbocane6/holbertonschool-low_level_programming" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/jbocane6/logos/main/grey%20git.png" alt="git" width="46" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href=#> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><a href="https://github.com/jbocane6/holbertonschool-low_level_programming" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/jbocane6/logos/main/grey%20git.png" alt="git" width="46" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 <br><br>
-<div align="center"><a href=#><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbocane6&show_icons=true&locale=en&layout=compact" alt="jbocane6" height="200" /></a>
-<a href=#><img src="https://github-readme-streak-stats.herokuapp.com/?user=jbocane6&" alt="jbocane6" /></a></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbocane6&show_icons=true&locale=en&layout=compact" alt="jbocane6" height="200" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jbocane6&" alt="jbocane6" /></div>
 
-<p align="center"><a href=#><img src="https://github-readme-stats.vercel.app/api?username=jbocane6&show_icons=true&locale=en" alt="jbocane6" width="460" /></a>
-<a href=#><img src="https://github-profile-trophy.vercel.app/?username=jbocane6" alt="jbocane6" width="460" /></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jbocane6&show_icons=true&locale=en" alt="jbocane6" width="460" /><img src="https://github-profile-trophy.vercel.app/?username=jbocane6" alt="jbocane6" width="460" /></p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
