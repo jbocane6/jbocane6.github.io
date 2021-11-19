@@ -26,6 +26,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jbocane6&show_icons=true&locale=en" alt="jbocane6" width="460" /><img src="https://github-profile-trophy.vercel.app/?username=jbocane6" alt="jbocane6" width="460" /></p>
 
 <br>
+<h3 align="center">My projects</h3>
+<br>
+<a href="https://jbocane6.github.io/AirBnB_clone/web_static/103-index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/jbocane6/AirBnB_clone/master/web_static/images/logo.png" alt="hbnb logo" />Static AirBnb clone</a>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/juanoso07555284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanoso07555284" height="30" width="40" /></a>
