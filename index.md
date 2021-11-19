@@ -28,7 +28,8 @@
 <br>
 <h3 align="center">My projects</h3>
 <br>
-<a href="https://jbocane6.github.io/AirBnB_clone/web_static/103-index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/jbocane6/AirBnB_clone/master/web_static/images/logo.png" alt="hbnb logo" />Static AirBnb clone</a>
+<p align="center">
+<a href="https://jbocane6.github.io/AirBnB_clone/web_static/103-index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/jbocane6/logos/main/hbnb.png" alt="hbnb logo" /></a></p>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
